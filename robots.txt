@@ -1,4 +1,4 @@
-# robots.txt for hoplonco.com
+# robots.txt for powerlinedxb.com
 # Allow crawling of the site by default, but keep private/system areas out of the index.
 
 User-agent: *
@@ -24,4 +24,4 @@ Disallow: /*?*ref=
 Disallow: /*?*session
 
 # Point crawlers to your sitemap index
-Sitemap: https://hoplonco.com/sitemap.xml
+Sitemap: https://powerlinedxb.com/sitemap.xml
